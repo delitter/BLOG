@@ -2,4 +2,4 @@
 layout: default
 ---
 # study of algorithm 
-[recursion or iteration](_posts/recursion-or-iteration.md)
+[recursion or iteration 2017/10/09](recursion-or-iteration)
