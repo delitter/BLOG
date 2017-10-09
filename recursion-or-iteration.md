@@ -50,5 +50,6 @@
 	    return Max3(MaxLeftSum, MaxRightSum, 
 		    MaxLeftBorderSum + MaxRightBorderSum);
     }
+	
 ***
   
