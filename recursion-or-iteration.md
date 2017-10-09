@@ -12,7 +12,9 @@
 &nbsp;&nbsp;When we use recursion, we must take responsibility of the whole function. As a person to coding, I think our thinking should be more like machine but not human. So when we use recursion, we should not just use, we should do some algorithm design things and make the number of times of recursion smaller and smaller.
 
 &nbsp;&nbsp;At last, let me put a example from the textbook. It's an example of good use of recursion. Algorithm for _finding the biggest subsequence sum problem_, the thinking is make a sequence half and half and compare left half to right half. Classic thinking of recursion and classic way to be solved by reursion.
+
 ***
+
     static int
     MaxSubSum(const int A[], int Left, int Right)`
     {
@@ -50,6 +52,6 @@
 	    return Max3(MaxLeftSum, MaxRightSum, 
 		    MaxLeftBorderSum + MaxRightBorderSum);
     }
-	
+
 ***
   
