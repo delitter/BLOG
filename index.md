@@ -1,5 +1,5 @@
 ---
 layout: default
 ---
-#study of algorithm 
+# study of algorithm 
 [recursion or iteration](_posts/recursion-or-iteration)
