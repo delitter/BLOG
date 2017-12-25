@@ -2,10 +2,10 @@
 &nbsp;&nbsp;This semester I have a course called **_Human Computer Interaction_** and there is a task for us to try to use v-rep and program a robot model in v-rep called **_NAO_** with python. Our teacher will tell seldom to us about this so I have to learn it by myself. However, I find that I can't find an article complete enough, which can tell me how to build the environment on my PC. Fortunately, I built it succesfully after solving many conufsing problems. And now I'd like to write down my experience. _(As I'm using Windows OS, this article will be based on Windows OS.)_
 
 &nbsp;&nbsp;In this condition, what we need are 4 things:    
-<center>python2.7 32bit  </center><br/>  
-<center>spyder    </center><br/>
-<cneter>PyQt4 32 bit   </center><br/> 
-<center>naoqi sdk</center>    
+<center>python2.7 32bit  <br/>  
+spyder    <br/>
+PyQt4 32 bit   <br/> 
+naoqi sdk</center>    
 
 &nbsp;&nbsp;Now let me introduce these parts first so that you can know why we need them. Of course to write python scripts we need python. And I recommend python2.7 in 32 bit because we need to come with the naoqi sdk. This sdk developed by SoftBank seems to only come with python2.7 in 32 bits. As for Spyder, it's a python extension pack for scientific computing. And if you have installed PyQt, you can have a user interface of spyder. It has blocks for scripts and console lines. After all, spyder can be a good tool for robot programming with python. And about naoqi, as I mentioned before, it's an sdk pack for NAO. Your NAO programming can be easier with this and I see that it's also recommened by [official NAO website](https://www.ald.softbankrobotics.com/en/robots/nao). 
 
